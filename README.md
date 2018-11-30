@@ -1,6 +1,6 @@
 ### User Management Project V1
 
-Template for Spring 4 MVC + jQuery Ajax + MongoDB + , using Maven build tool.
+Spring 4 MVC + jQuery Ajax + MongoDB were used in the project. Project dependencies were managed with Maven. Project tests were carried out with JUnit.
 
 ### Technologies used
 
