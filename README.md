@@ -13,3 +13,22 @@ Spring 4 MVC + jQuery Ajax + MongoDB were used in the project. Project dependenc
 - Maven 3.3
 
 Access http://localhost:8080/SpringMVCMongoDBAjaxMaven/index
+
+
+![img](https://raw.githubusercontent.com/unalsurmeli/SpringMVCMongoDBAjaxMaven/master/Screen%20Shot%202018-11-30%20at%2005.33.41.png)
+
+![img](https://raw.githubusercontent.com/unalsurmeli/SpringMVCMongoDBAjaxMaven/master/Screen%20Shot%202018-11-30%20at%2005.30.44.png)
+
+![img](https://raw.githubusercontent.com/unalsurmeli/SpringMVCMongoDBAjaxMaven/master/Screen%20Shot%202018-11-30%20at%2005.31.04.png)
+
+![img](https://raw.githubusercontent.com/unalsurmeli/SpringMVCMongoDBAjaxMaven/master/Screen%20Shot%202018-11-30%20at%2005.32.25.png)
+
+![img](https://raw.githubusercontent.com/unalsurmeli/SpringMVCMongoDBAjaxMaven/master/Screen%20Shot%202018-11-30%20at%2005.32.56.png)
+
+![img](https://raw.githubusercontent.com/unalsurmeli/SpringMVCMongoDBAjaxMaven/master/Screen%20Shot%202018-11-30%20at%2005.33.27.png)
+
+
+
+
+
+
