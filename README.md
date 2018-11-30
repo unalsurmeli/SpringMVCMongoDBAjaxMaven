@@ -11,6 +11,7 @@ Spring 4 MVC + jQuery Ajax + MongoDB were used in the project. Project dependenc
 - Boostrap 3
 - MongoDB 3.9.0
 - Maven 3.3
+- Tomcat v8.5
 
 Access http://localhost:8080/SpringMVCMongoDBAjaxMaven/index
 
